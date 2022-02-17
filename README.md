@@ -53,7 +53,7 @@
     <img src="https://github.com/ThreeMammals/Ocelot/raw/develop/images/ocelot_logo.png" alt="ocelot" style="vertical-align:top; margin:4px; width: 60px;">
   </a>
   <a href="https://microsoft.com">
-    <img src="https://simpleicons.org/icons/microsoftsqlserver.svg" alt="mssql" style="vertical-align:top; margin:4px">
+    <img src="https://simpleicons.org/icons/microsoftsqlserver.svg" alt="mssql" style="vertical-align:top; margin:4px; width: 60px;">
   </a>
   
   <br/>
