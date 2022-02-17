@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://dotnet.microsoft.com/en-us/apps/xamarin">
-    <img src="https://simpleicons.org/icons/xamarin.svg" alt="xamarin" style="vertical-align:top; margin:4px">
+    <img src="https://simpleicons.org/icons/xamarin.svg" alt="xamarin" style="vertical-align:top; margin:4px; width: 60px;">
   </a>
    <a href="https://dotnet.microsoft.com/">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
@@ -50,7 +50,7 @@
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://github.com/ThreeMammals/Ocelot">
-    <img src="https://github.com/ThreeMammals/Ocelot/raw/develop/images/ocelot_logo.png" alt="ocelot" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/ThreeMammals/Ocelot/raw/develop/images/ocelot_logo.png" alt="ocelot" style="vertical-align:top; margin:4px; width: 60px;">
   </a>
   <a href="https://microsoft.com">
     <img src="https://simpleicons.org/icons/microsoftsqlserver.svg" alt="mssql" style="vertical-align:top; margin:4px">
