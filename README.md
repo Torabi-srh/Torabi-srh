@@ -40,17 +40,11 @@
   <a href="https://www.elastic.co">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elasticsearch" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://appcenter.ms/">
-    <img src="https://www.vectorlogo.zone/logos/appcenterms/appcenterms-ar21.svg" alt="appcenterms" style="vertical-align:top; margin:4px;">
-  </a>
   <a href="https://grpc.io/">
     <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="grpc" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://www.rabbitmq.com">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://github.com/ThreeMammals/Ocelot">
-    <img src="https://github.com/ThreeMammals/Ocelot/raw/develop/images/ocelot_logo.png" alt="ocelot" style="vertical-align:top; margin:4px; width: 60px;">
   </a>
   <a href="https://microsoft.com">
     <img src="https://simpleicons.org/icons/microsoftsqlserver.svg" alt="mssql" style="vertical-align:top; margin:4px; width: 60px;">
