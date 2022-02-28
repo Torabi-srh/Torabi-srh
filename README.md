@@ -61,5 +61,10 @@
 ---
 
 <p align="center">
-  <a href="#" alt="soroush torabi's github stats"><img src="https://github-readme-stats.vercel.app/api?username=tspersian" /></a>
+  <a href="#" alt="soroush torabi's github stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tspersian" /></a>
+</p>
+
+
+<p align="center">
+  <a href="#" alt="soroush torabi's github stats"><img src="https://github-profile-trophy.vercel.app/?username=tspersian" /></a>
 </p>
