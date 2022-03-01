@@ -4,6 +4,9 @@
  <a href="https://github.com/tspersian" alt="soroush torabi's github stats">
    <img src="https://img.shields.io/badge/-@tspersian-%23181717?style=flat-square&logo=github" />
  </a>
+ <a href="https://github.com/tspersian" alt="soroush torabi's github stats">
+   <img src="https://badges.pufler.dev/years/tspersian" />
+ </a> 
 </p>
 
 <p align="center"> 
@@ -61,5 +64,5 @@
   <a href="#" alt="soroush torabi's streak stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tspersian" /></a>
 </p>
 <p align="center">
-  <a href="#" alt="soroush torabi's github stats"><img src="https://github-readme-stats.vercel.app/api?username=tspersian&count_private=true" /></a>
+  <a href="#" alt="soroush torabi's github stats"><img src="https://github-readme-stats.vercel.app/api?username=tspersian&count_private=true&show_icons=true" /></a>
 </p>
