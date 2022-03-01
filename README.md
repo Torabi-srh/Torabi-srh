@@ -1,3 +1,159 @@
+/**
+  @author denim2x <denim2x@cyberdude.com>
+  @license MIT
+  
+  Pure-CSS Masonry layout, implemented via grid (http://mdn.io/grid);
+  all items are being nicely stacked vertically - thanks to 
+  `grid-auto-rows` and `grid-row: span ...`.
+
+  SUIT CSS compliant implementation.
+ */
+@import url('https://fonts.googleapis.com/css?family=Merienda+One');
+
+/* Global variables */
+:root {
+  --Container-columns: 1;
+  --Container-width: 230px;
+}
+
+/* The main container */
+.Container {
+  display: grid;
+  grid-auto-rows: 5px;
+  
+  grid-gap: 10px;
+  grid-template-columns: repeat(var(--Container-columns), 1fr);
+  
+  min-width: 180px;
+  max-width: calc(var(--Container-columns) * var(--Container-width));
+  
+  padding: 0 7px;
+  margin: 50px auto 10px;
+  
+  position: relative;
+  box-sizing: border-box;
+}
+
+.Container-item {
+  --weight: 1;      /* jQuery: $(...).css('--weight', ...); */
+  grid-row: span var(--weight);
+  
+  border-radius: 13px;  
+  box-sizing: border-box;
+  
+  font-size: 1.7em;
+  font-weight: 400;
+  
+  color: hsl(0, 0%, 31%);
+  background: hsl(0, 0%, 76%);
+}
+
+/* Flexbox layout (http://mdn.io/flexbox) */
+.Container-item, .Header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*  */
+.Container-item:nth-child(5n+1) {
+  --weight: 16;
+}
+
+.Container-item:nth-child(5n+2) {
+  --weight: 10;
+}
+
+.Container-item:nth-child(5n+3) {
+  --weight: 13;
+}
+
+.Container-item:nth-child(5n+4) {
+  --weight: 11;
+}
+
+.Container-item:nth-child(5n) {
+  --weight: 13;
+}
+
+
+/* Layout responsiveness (http://mdn.io/@media) */
+@media screen and (min-width: 420px) {
+  :root {
+    --Container-columns: 2;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  :root {
+    --Container-columns: 3;
+  }
+}
+
+@media screen and (min-width: 857px) {
+  :root {
+    --Container-columns: 4;
+  }
+}
+
+@media screen and (min-width: 1224px) {
+  :root {
+    --Container-columns: 5;
+  }
+}
+
+@media screen and (min-width: 1748px) {
+  :root {
+    --Container-columns: 6;
+  }
+}
+
+
+/* Header styles */
+.Header {
+  position: fixed;
+  z-index: 1;
+  
+  top: 0;
+  left: 0;
+  
+  width: 100%;
+  height: 40px;
+  
+  padding: 0 5px;
+  box-sizing: border-box;
+  
+  opacity: 0.7;
+  background: hsl(0, 0%, 83%);
+}
+
+.Header-title {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  
+  font-size: 1.05em;
+  
+  color: hsl(0, 0%, 18%);
+}
+
+
+/* Document styles */
+body {
+  font-family: 'Merienda One', cursive;
+  background: hsl(0, 0%, 92%);
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  
+  padding: 0;
+  margin: 0;
+}
+
+
+
 <h1 align="center">Hi there, I'm Sorouh Torabi</h1>
 
 <p align="center"> 
