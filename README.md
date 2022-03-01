@@ -34,9 +34,6 @@
   <a href="https://vuejs.org/">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vuejs" style="vertical-align:top; margin:4px;width:70px;height:28px;">
   </a>
-  <a href="https://laravel.com/">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" style="vertical-align:top; margin:4px;width:70px;height:28px;">
-  </a>
   <a href="https://hub.docker.com/">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="vertical-align:top; margin:4px;width:70px;height:28px;">
   </a> 
