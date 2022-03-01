@@ -152,7 +152,28 @@ html, body {
   margin: 0;
 }
 
+<header class="Header">
+  <h1 class="Header-title">CSS-grid Masonry layout</h1>
+</header>
 
+<main class="Container">
+  <div class="Container-item">1</div>
+  <div class="Container-item">2</div>
+  <div class="Container-item">3</div>
+  <div class="Container-item">4</div>
+  <div class="Container-item">5</div>
+  <div class="Container-item">6</div>
+  <div class="Container-item">7</div>
+  <div class="Container-item">8</div>
+  <div class="Container-item">9</div>
+  <div class="Container-item">10</div>
+  <div class="Container-item">11</div>
+  <div class="Container-item">12</div>
+  <div class="Container-item">13</div>
+  <div class="Container-item">14</div>
+  <div class="Container-item">15</div>
+  <div class="Container-item">16</div>
+</main>
 
 <h1 align="center">Hi there, I'm Sorouh Torabi</h1>
 
