@@ -39,8 +39,7 @@
   </a>
   <a href="https://hub.docker.com/">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="vertical-align:top; margin:4px;width:70px;height:28px;">
-  </a> 
- 
+  </a>  
   <a href="https://kubernetes.io">
     <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" style="vertical-align:top; margin:4px;width:70px;height:28px;">
   </a>
@@ -62,7 +61,4 @@
 
 <p align="center">
   <a href="#" alt="soroush torabi's streak stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tspersian" /></a>
-</p>
-<p align="center">
-  <a href="#" alt="soroush torabi's github stats"><img src="https://github-readme-stats.vercel.app/api?username=tspersian&count_private=true&show_icons=true" /></a>
 </p>
