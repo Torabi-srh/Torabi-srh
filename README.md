@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Sorouh Torabi</h1>
 
 <p align="center"> 
- <a href="https://github.com/tspersian" alt="soroush torabi's github stats">
-   <img src="https://img.shields.io/badge/-@tspersian-%23181717?style=flat-square&logo=github" />
+ <a href="https://github.com/Torabi-srh" alt="soroush torabi's github stats">
+   <img src="https://img.shields.io/badge/-@Torabi-srh?style=flat-square&logo=github" />
  </a>
- <a href="https://github.com/tspersian" alt="soroush torabi's github stats">
-   <img src="https://badges.pufler.dev/years/tspersian" />
+ <a href="https://github.com/Torabi-srh" alt="soroush torabi's github stats">
+   <img src="https://badges.pufler.dev/years/Torabi-srh" />
  </a> 
 </p>
 
@@ -60,5 +60,5 @@
 ---
 
 <p align="center">
-  <a href="#" alt="soroush torabi's streak stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tspersian" /></a>
+  <a href="#" alt="soroush torabi's streak stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Torabi-srh" /></a>
 </p>
