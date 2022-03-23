@@ -43,10 +43,7 @@
   <a href="https://kubernetes.io">
     <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" style="vertical-align:top; margin:4px;height:32px;">
   </a>
-  <a href="https://www.elastic.co">
-    <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="elasticsearch" style="vertical-align:top; margin:4px;height:32px;">
-  </a>
-  <a href="https://www.rabbitmq.com">
+   <a href="https://www.rabbitmq.com">
     <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq" style="vertical-align:top; margin:4px;height:32px;">
   </a>
   <a href="https://microsoft.com">
