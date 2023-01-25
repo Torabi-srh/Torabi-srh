@@ -7,11 +7,11 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;در حال حاضر به عنوان مدیر فنی در [ASM](https://alephba-system.ir/) (الفبا سیستم مانا) کار می کنم \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;عاشق به علم و نوآوری.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;علاقه مند به حل مسئله و اتوماسیون کارهای روزمره.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;در حال حاضر در حال تحقیق در مورد یادگیری ماشینی، یادگیری تقویتی.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;کد نویسی از سال 1386 با بیش از 10 سال تجربه در توسعه نرم افزار در سطح سازمانی.
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Tech Lead at [ASM](https://alephba-system.ir/) (Alephba System Mana) \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching machine learning, reinforcement learning.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2008 with 10+ years of experience in enterprise wide software development.
 
 <p align="center">
   <a href="mailto:torabi.srh@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,7 +23,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;دانش فنی اصلی</b></summary>
+  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
 ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
@@ -63,7 +63,7 @@
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;دانش دیگر، همیشه در حال یادگیری</b></summary>
+  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
 
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
@@ -85,7 +85,7 @@
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;آمار گیت هاب</b></summary>
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Torabi-srh&hide_border=true&theme=nightowl" />
@@ -97,10 +97,12 @@
 
 <hr/>
 
+
 <p align="center">
    <img src="https://camo.githubusercontent.com/08777e7ce37bcc3eac86244e243f109c560ed19657cf92b83ccf1f56f32ad634/68747470733a2f2f656e2e626974636f696e2e69742f772f696d616765732f656e2f372f37342f42435f526e645f363470782e706e67" alt="Support me :)" style="max-width: 100%;">
    BTC: bc1q0nr2gqrx6gmqknje0rgl76f2m36ueetl6rntwt
 </p>
+
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Torabi-srh&style=plastic&label=Views"><img>

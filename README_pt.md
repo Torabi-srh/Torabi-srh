@@ -5,13 +5,13 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+### :space_invader: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;در حال حاضر به عنوان مدیر فنی در [ASM](https://alephba-system.ir/) (الفبا سیستم مانا) کار می کنم \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;عاشق به علم و نوآوری.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;علاقه مند به حل مسئله و اتوماسیون کارهای روزمره.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;در حال حاضر در حال تحقیق در مورد یادگیری ماشینی، یادگیری تقویتی.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;کد نویسی از سال 1386 با بیش از 10 سال تجربه در توسعه نرم افزار در سطح سازمانی.
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente trabalhando como Líder Técnico na [UNESP](https://unesp.br/) (Universidade Estadual Paulista) \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor pela ciência e inovação.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas e automação de rotinas diárias.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Pesquisando sobre arquitetura de software, sensores inerciais e fusão de sensores.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando desde 2008 com mais de 10 anos de experiencia em desenvolvimento de software empresarial.\
 
 <p align="center">
   <a href="mailto:torabi.srh@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,7 +23,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;دانش فنی اصلی</b></summary>
+  <summary><b>:computer: &nbsp;Principal domínio tecnológico</b></summary>
   <br/>
 
 ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
@@ -63,7 +63,7 @@
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;دانش دیگر، همیشه در حال یادگیری</b></summary>
+  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
 
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
@@ -85,9 +85,31 @@
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;آمار گیت هاب</b></summary>
+  <summary><b>:brain: &nbsp;Outras conhecimentos, sempre aprendendo</b></summary>
   <br/>
-    <p align="center">
+
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
+![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
+![GRPC](https://img.shields.io/badge/GRPC-4285F4.svg?&style=flat&logo=google&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![GithubActions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;\
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
+![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![Arduino](https://img.shields.io/badge/ARDUINO-00979D.svg?&style=flat&logo=arduino&logoColor=white)&nbsp;
+![JQuery](https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;\
+![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
+![FIGMA](https://img.shields.io/badge/FIGMA-FFC0CB.svg?&style=flat&logo=figma&logoColor=black)&nbsp;
+
+</details>
+
+<details>
+  <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
+  <br/>
+     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Torabi-srh&hide_border=true&theme=nightowl" />
     </p>
     <p align="center">
@@ -97,10 +119,12 @@
 
 <hr/>
 
+
 <p align="center">
    <img src="https://camo.githubusercontent.com/08777e7ce37bcc3eac86244e243f109c560ed19657cf92b83ccf1f56f32ad634/68747470733a2f2f656e2e626974636f696e2e69742f772f696d616765732f656e2f372f37342f42435f526e645f363470782e706e67" alt="Support me :)" style="max-width: 100%;">
    BTC: bc1q0nr2gqrx6gmqknje0rgl76f2m36ueetl6rntwt
 </p>
+
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Torabi-srh&style=plastic&label=Views"><img>
