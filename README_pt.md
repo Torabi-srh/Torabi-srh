@@ -120,7 +120,7 @@
 <hr/>
 
 
-<p align="center">
+<p align="left">
    BTC: bc1q0nr2gqrx6gmqknje0rgl76f2m36ueetl6rntwt
 </p>
 
