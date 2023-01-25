@@ -5,7 +5,7 @@
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+### :space_invader: &nbsp;درباره من
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;در حال حاضر به عنوان مدیر فنی در [ASM](https://alephba-system.ir/) (الفبا سیستم مانا) کار می کنم \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;عاشق به علم و نوآوری.\
