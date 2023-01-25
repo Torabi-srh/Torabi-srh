@@ -97,14 +97,11 @@
 
 <hr/>
 
-
 <p align="center">
-   <img src="https://camo.githubusercontent.com/08777e7ce37bcc3eac86244e243f109c560ed19657cf92b83ccf1f56f32ad634/68747470733a2f2f656e2e626974636f696e2e69742f772f696d616765732f656e2f372f37342f42435f526e645f363470782e706e67" alt="Support me :)" style="max-width: 100%;">
+   <img src="" alt="Support me :)" style="max-width: 100%;">
    BTC: bc1q0nr2gqrx6gmqknje0rgl76f2m36ueetl6rntwt
 </p>
 
-
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=Torabi-srh&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/Torabi-srh/Torabi-srh?color=black&logo=github" />
 </p>
