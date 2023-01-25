@@ -121,7 +121,6 @@
 
 
 <p align="center">
-   <img src="" alt="Support me :)" style="max-width: 100%;">
    BTC: bc1q0nr2gqrx6gmqknje0rgl76f2m36ueetl6rntwt
 </p>
 
