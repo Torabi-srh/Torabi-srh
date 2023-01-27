@@ -1,4 +1,4 @@
-<table align="right">
+<table align="left">
  <tr><td><a href="README_fa.md"><img src="html/images/ir-flag.png" height="13"> فارسی</a></td></tr>
  <tr><td><a href="README.md"><img src="html/images/uk-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="html/images/fr-flag.png" height="13"> Français</a></td></tr>
