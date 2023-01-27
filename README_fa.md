@@ -13,7 +13,6 @@
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;در حال حاضر در حال تحقیق در مورد یادگیری ماشینی، یادگیری تقویتی.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;کد نویسی از سال 1386 با بیش از 10 سال تجربه در توسعه نرم افزار در سطح سازمانی.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torabi-srh)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <a href="mailto:torabi.srh@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="instagram.com/soroush.trb/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -90,7 +89,7 @@
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Torabi-srh&hide_border=true&theme=nightowl" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Torabi-srh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torabi-srh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Torabi-srh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torabi-srh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl&count_private=true" />
     </p>
 </details>
 
