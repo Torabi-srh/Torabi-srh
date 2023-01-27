@@ -22,7 +22,7 @@
 
 <hr/>
 
-<details>
+<details align="right">
   <summary><b>:computer: &nbsp;دانش فنی اصلی</b></summary>
   <br/>
 
@@ -59,7 +59,7 @@
 
 </details>
 
-<details>
+<details align="right">
   <summary><b>:brain: &nbsp;دانش دیگر، همیشه در حال یادگیری</b></summary>
   <br/>
 
