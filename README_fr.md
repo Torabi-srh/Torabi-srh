@@ -1,6 +1,6 @@
 <table align="right">
- <tr><td><a href="README.md"><img src="html/images/ir-flag.png" height="13"> فارسی</a></td></tr>
- <tr><td><a href="README_en.md"><img src="html/images/uk-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fa.md"><img src="html/images/ir-flag.png" height="13"> فارسی</a></td></tr>
+ <tr><td><a href="README.md"><img src="html/images/uk-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="html/images/fr-flag.png" height="13"> Français</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="html/images/br-flag.png" height="13"> Português</a></td></tr>
 </table>

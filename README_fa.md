@@ -1,17 +1,17 @@
 <table align="right">
- <tr><td><a href="README.md"><img src="html/images/ir-flag.png" height="13"> فارسی</a></td></tr>
- <tr><td><a href="README_en.md"><img src="html/images/uk-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fa.md"><img src="html/images/ir-flag.png" height="13"> فارسی</a></td></tr>
+ <tr><td><a href="README.md"><img src="html/images/uk-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="html/images/fr-flag.png" height="13"> Français</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="html/images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;About Me
+### :space_invader: &nbsp;درباره من
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Tech Lead at [ASM](https://alephba-system.ir/) (Alephba System Mana) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching machine learning, reinforcement learning.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2008 with 10+ years of experience in enterprise wide software development.
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;در حال حاضر به عنوان مدیر فنی در [ASM](https://alephba-system.ir/) (الفبا سیستم مانا) کار می کنم \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;عاشق به علم و نوآوری.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;علاقه مند به حل مسئله و اتوماسیون کارهای روزمره.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;در حال حاضر در حال تحقیق در مورد یادگیری ماشینی، یادگیری تقویتی.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;کد نویسی از سال 1386 با بیش از 10 سال تجربه در توسعه نرم افزار در سطح سازمانی.
 
 <p align="center">
   <a href="mailto:torabi.srh@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -23,7 +23,7 @@
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+  <summary><b>:computer: &nbsp;دانش فنی اصلی</b></summary>
   <br/>
 
 ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=flat&logo=csharp&logoColor=white)&nbsp;
@@ -60,8 +60,9 @@
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
+  <summary><b>:brain: &nbsp;دانش دیگر، همیشه در حال یادگیری</b></summary>
   <br/>
+
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=go&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
@@ -82,7 +83,7 @@
 </details>
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;آمار گیت هاب</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Torabi-srh&hide_border=true&theme=nightowl" />
