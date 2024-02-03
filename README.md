@@ -14,10 +14,11 @@
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2008 with 10+ years of experience in enterprise wide software development.
 
 <p align="center">
-  <a href="mailto:torabi.srh@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="instagram.com/soroush.trb/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/soroush-torabi-0b549076/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Torabi-srh/"><img src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:torabi.srh@gmail.com" target="blank"><img  alt="Soroush torabi" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="instagram.com/soroush.trb/" target="blank"><img  alt="Soroush torabi" src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/soroush-torabi-0b549076/" target="blank"><img  alt="Soroush torabi" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Torabi-srh/" target="blank"><img  alt="Soroush torabi" src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/tstsst" target="blank"><img  alt="tstsst" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
@@ -85,11 +86,13 @@
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Torabi-srh&hide_border=true&theme=nightowl" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Torabi-srh&hide_border=true&theme=nightowl" alt="torabi-srh" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Torabi-srh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torabi-srh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl&count_private=true" />
+        <img height="137px" alt="torabi-srh" src="https://github-readme-stats.vercel.app/api?username=Torabi-srh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img alt="torabi-srh" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torabi-srh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl&count_private=true" />
     </p>
+ 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=torabi-srh" alt="torabi-srh" /></a> </p>
 </details>
 
 <hr/>
@@ -99,5 +102,5 @@
 </p>
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=Torabi-srh&style=plastic&label=Views"><img>
+<img src="https://komarev.com/ghpvc/?username=Torabi-srh&style=plastic&label=Views" alt="torabi-srh"><img>
 </p>
