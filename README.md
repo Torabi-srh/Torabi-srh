@@ -18,7 +18,7 @@
   <a href="instagram.com/soroush.trb/" target="blank"><img  alt="Soroush torabi" src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/soroush-torabi-0b549076/" target="blank"><img  alt="Soroush torabi" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Torabi-srh/" target="blank"><img  alt="Soroush torabi" src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/tstsst" target="blank"><img  alt="tstsst" src="https://img.shields.io/badge/codeforces-%230077B5.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/tstsst" target="blank"><img  alt="tstsst" src="https://img.shields.io/badge/codeforces-%230077B5.svg?&style=for-the-badge&logo=codeforces&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
