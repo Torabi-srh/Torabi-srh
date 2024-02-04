@@ -7,11 +7,11 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Tech Lead at [ASM](https://alephba-system.ir/) (Alephba System Mana) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching machine learning, reinforcement learning.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2008 with 10+ years of experience in enterprise wide software development.
+&nbsp;&nbsp;&nbsp; :technologist: &nbsp;Currently working as a Tech Lead at [ASM](https://alephba-system.ir/) (Alephba System Mana) \
+&nbsp;&nbsp;&nbsp; :seedling: &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
+&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Currently researching machine learning, reinforcement learning.\
+&nbsp;&nbsp;&nbsp; :hammer_and_wrench: &nbsp;Coding since 2008 with 10+ years of experience in enterprise wide software development.
 
 <p align="center">
   <a href="mailto:torabi.srh@gmail.com" target="blank"><img  alt="Soroush torabi" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
