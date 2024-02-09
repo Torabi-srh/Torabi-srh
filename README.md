@@ -4,7 +4,7 @@
  <tr><td><a href="README_fr.md"><img src="html/images/fr-flag.png" height="13"> Français</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="html/images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
-<a href="https://www.coffeebede.com/torabi.srh"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" style="max-width: 25%;" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.coffeebede.com/torabi.srh"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" style="width: 25%;" /></a>&nbsp;&nbsp;&nbsp;
 
 ### :space_invader: &nbsp;About Me
 
